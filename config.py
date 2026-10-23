@@ -15,14 +15,14 @@ BOT_TEXT = "℘ཞıŋƈɛ℘ıą"
 OWNER_ID = int(os.environ.get("OWNER_ID", "7986492544"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-10037678927"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-3845420045"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003766078927")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-3845420045")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://alokjangde6: Sapnaipali71$@cluster0.cx60pkr.mongodb.net/?appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-10037660927"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-3845420045"))
 # -----------------------------------------------
 join = '<a href="https://t.me/princepia">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
